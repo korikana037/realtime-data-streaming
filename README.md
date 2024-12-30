@@ -11,6 +11,7 @@ The entire pipeline is encapsulated within **Docker** containers, affording a st
 
 ## System Architecture
 
+![System Architecture](https://github.com/korikana037/realtime-data-streaming/blob/main/Data%20engineering%20architecture.png)
 
 The project is designed with the following components:
 - **Data Source**:  `randomuser.me` API is used to generate random user data for the pipeline.
