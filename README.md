@@ -49,7 +49,3 @@ Here’s a summary of the project’s key components and workflow:
 
 ## Acknowledgements
 I would like to thank [Yusuf Ganiyu](https://www.linkedin.com/in/yusuf-ganiyu-b90140107/) for this amazing project. 
-
-
-Please follow the tutorial here to build this data engineering pipeline yourself.
-[YouTube Video Tutorial](https://www.youtube.com/watch?v=GqAcTrqKcrY)
